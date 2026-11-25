@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="ngBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f766e" />
+      <stop offset="100%" stop-color="#0d9488" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#ngBg)" />
+  <path
+    d="M256 410s-132-84-132-182c0-46 36-82 80-82 28 0 52 14 52 38 0-24 24-38 52-38 44 0 80 36 80 82 0 98-132 182-132 182z"
+    fill="none"
+    stroke="#ffffff"
+    stroke-width="26"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <path
+    d="M150 250h50l24-54 34 108 28-68 18 14h58"
+    fill="none"
+    stroke="#99f6e4"
+    stroke-width="22"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+</svg>
